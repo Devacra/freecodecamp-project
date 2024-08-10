@@ -1,0 +1,150 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <h1 id="title">Survey Form</h1>
+  <link rel="stylesheet" href="styles.css"/>
+  <p id="description">We appreciate you dedicating your time to complete this survey form</p>
+  </head>
+  <body>
+     <div class="content">
+    <form id="survey-form" method="post" action='https://survey-form.freecodecamp.org'>
+    <fieldset>
+      <label id="name-label" for="name" >Name: <input id="name" name="name" type="text" required placeholder="Enter your name"/></label>
+      <label id="email-label" for="email">Email: <input id="email" name="email" type="email" required placeholder="Enter your email"/></label>
+      <label id="number-label" for="age">Age: (optional) <input id="number" name="age" type="number" min="13" max="120" placeholder="Age"/></label>
+      <label id="current-role" for="current-role" >What is your current role? Choose the option that best describes it.          <select id="dropdown" name="current-role">
+            <option value="">(Select current role)</option>
+            <option value="1">Student</option>
+            <option value="2">Employed</option>
+            <option value="3">Unemployed</option>
+            <option value="4">Freelancer</option>            
+            <option value="5">Other</option> 
+          </select></label>
+        <label>Are you interested in pursuing a career as a web developer?</label>
+        <label for="yes"><input id="yes" type="radio" value="yes" name="interest" class="inline" checked /> Yes</label>
+        <label for="no"><input id="no" type="radio" value="no" name="interest" class="inline" /> No</label>
+        <label for="maybe"><input id="maybe" type="radio" value="maybe" name="interest" class="inline" /> Maybe</label>
+        <label for="not-sure"><input id="not-sure" type="radio" value="not-sure" name="interest" class="inline" /> Not Sure</label>
+        <label>What kind of web development role are you aiming for?</label>
+        <label><input id="front-end-developer" type="checkbox" class="inline" value="front-end-developer"/>Front-End Developer</label>
+        <label><input id="back-end-developer" type="checkbox" class="inline" value="back-end-developer"/>Back-End Developer</label>
+        <label><input id="web-project-manager" type="checkbox" class="inline" value="web-project-manager"/>Web Project Manager</label>
+        <label><input id="web-development-instructor" type="checkbox" class="inline" value="web-development-instructor"/>Web Development Instructor/Trainer</label>
+        <label><input id="web-consultant" type="checkbox" class="inline" value="web-consultant"/>Web Consultant</label>
+        <label><input id="freelance-web-developer" type="checkbox" class="inline" value="freelance-web-developer"/>Freelance Web Deveoper</label>
+        </label>
+        <label for="bio">How would you describe your web development abilities?
+          <textarea id="skills" name="skills" rows="8" cols="30" placeholder="I have strong web development skill..."></textarea><input id="submit" type="submit" value="Submit"/>
+        </label>
+      </fieldset>
+    </body>
+
+    
+
+** end of undefined **
+
+** start of undefined **
+
+body {
+  width: 100%;
+  height: 100%;
+  color: White;
+  font-family: tahoma;
+  font-size: 18px;
+  background-image: url(https://www.ionos.com/digitalguide/fileadmin/DigitalGuide/Teaser/web-development-t.jpg); 
+  background-size: 100% 100%;
+  background-position: center;
+  background-repeat: no-repeat; 
+  background-attachment: fixed;
+}
+
+h1, p {
+  text-align: center;
+  position: relative;
+  z-index: 2;
+  margin: 2rem;
+}
+
+form {
+  width:  100vh;
+  max-width: 1000px;
+  min-width: 300px;
+  margin: 0 auto;
+  background-color: rgb(42,81,74,1);
+  background-position: center;
+  border-radius: 15px;
+}
+
+label {
+  display: block;
+  margin: 0.9rem ;
+}
+
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.background {
+  position: relative;
+  width: 100%;
+  height: 1%;
+  background-size: cover;
+  background-position: center;
+}
+
+.content {
+  position: relative;
+  z-index: 1; 
+  color: White;
+  padding: 20px;
+}
+        
+fieldset {
+  border: none;
+}
+
+input, textarea, select {
+  margin: 10px 0 0 0;
+  width: 100%;
+  min-height: 2em;
+  border-radius: 5px;
+  border: none;
+}
+
+.inline {
+  width: unset;
+  margin: 0 0.5em 0 0;
+  vertical-align: middle;
+}
+
+h1 {
+  font-size: 50px;
+  color: #92ffed;
+}
+
+p {
+  font-size: 17px;
+  color: White;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+input[type="submit"] {
+background-color: #4dd055; 
+  color: white;
+}
+
+select {
+  color: grey;
+}
+
+** end of undefined **
+
