@@ -1,0 +1,189 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Navbar -->
+    <nav id="navbar">
+        <ul>
+            <li><a href="#welcome-section">Welcome</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <!-- Welcome Section -->
+    <section id="welcome-section">
+        <h1>Welcome to My Portfolio</h1>
+        <p>Hi, I'm Arxe, a passionate developer.</p>
+    </section>
+    <section id="projects">
+        <h2>My Projects</h2>
+        <div class="project-tile">
+            <h3>Survey Form</h3>
+            <p>Survey about web developing</p>
+            <a href="https://github.com/Devacra/freecodecamp-project/blob/main/build-a-survey-form.txt" target="_blank">View Project</a>
+        </div>
+        <div class="project-tile">
+            <h3>Tribute Page</h3>
+            <p>Tribute for Toji Fushiguro.</p>
+            <a href="https://github.com/Devacra/freecodecamp-project/blob/main/build-a-tribute-page%20(1).txt" target="_blank">View Project</a>
+        </div>
+         <div class="project-tile">
+            <h3>Technical Documentation Page</h3>
+            <p>Zenin Clan Overview.</p>
+            <a href="https://github.com/Devacra/freecodecamp-project/blob/main/build-a-technical-documentation-page.txt" target="_blank">View Project</a>
+        </div>
+         <div class="project-tile">
+            <h3>Product Landing Page</h3>
+            <p>Cursed Tool Shop</p>
+            <a href="https://github.com/Devacra/freecodecamp-project/blob/main/build-a-product-landing-page.txt" target="_blank">View Project</a>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>Email: johnarceevora@gmail.com</p>
+        <a id="profile-link" href="https://github.com/Devacra" target="_blank">My GitHub Profile</a>
+    </section>
+</body>
+</html>
+
+
+** end of undefined **
+
+** start of undefined **
+
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    color: #3498db;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Navbar */
+#navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #333;
+    padding: 1em 0;
+}
+
+#navbar ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+#navbar ul li {
+    margin: 0 1em;
+}
+
+#navbar ul li a {
+    color: white;
+    font-weight: bold;
+}
+
+/* Welcome Section */
+#welcome-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #2ecc71;
+    color: white;
+    text-align: center;
+}
+
+#welcome-section h1 {
+    font-size: 3em;
+}
+
+#welcome-section p {
+    font-size: 1.5em;
+}
+
+/* Projects Section */
+#projects {
+    padding: 2em 0;
+    background-color: #ecf0f1;
+    text-align: center;
+}
+
+#projects h2 {
+    font-size: 2.5em;
+    margin-bottom: 1em;
+}
+
+.project-tile {
+    margin: 1em;
+    padding: 1em;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background-color: white;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.project-tile h3 {
+    margin-top: 0;
+}
+
+.project-tile a {
+    display: block;
+    margin-top: 1em;
+    font-weight: bold;
+}
+
+/* Contact Section */
+#contact {
+    padding: 2em 0;
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+
+#contact h2 {
+    font-size: 2.5em;
+    margin-bottom: 1em;
+}
+
+/* Media Queries */
+@media (max-width: 600px) {
+    #navbar ul {
+        flex-direction: column;
+    }
+
+    #navbar ul li {
+        margin: 0.5em 0;
+    }
+
+    .project-tile {
+        max-width: 90%;
+    }
+}
+
+
+** end of undefined **
+
