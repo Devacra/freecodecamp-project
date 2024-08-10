@@ -1,0 +1,349 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Zenin Clan Documentation Page</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav id="navbar">
+      <header class="header-class">
+      <div class="header-container">
+        <h1>Jujutsu Kaisen Documentation</h1>
+        <ul>
+          <li><a href="#overview" class="nav-link">Overview</a></li>
+          <li><a href="#history" class="nav-link">History</a></li>
+          <li><a href="#key_members" class="nav-link">Key Members</a></li>
+          <li><a href="#techniques" class="nav-link">Techniques</a></li>
+          <li><a href="#influence" class="nav-link">Influence</a></li>
+          <li><a href="#gallery" class="nav-link">Gallery</a></li>
+        </ul>
+      </div>
+       </header>
+    </nav>
+ 
+  <main id="main-doc">
+    <section class="main-section" id="overview">
+      <header>
+        <h2>Overview</h2>
+      </header>
+      <p>Zenin Clan Documentation</p>
+      <p>Welcome to the Zenin Clan Documentation! The Zenin Clan is one of the most prestigious and powerful clans in the Jujutsu Kaisen universe. Known for their exceptional jujutsu techniques and significant influence within the jujutsu society, the Zenin Clan has played a crucial role in shaping the series' events and character dynamics.</p>
+    </section>
+    <section class="main-section" id="history">
+      <header>
+        <h2>History</h2>
+      </header>
+      <p>Origins of the Zenin Clan</p>
+      <p>The Zenin Clan traces its origins back to ancient times, when jujutsu sorcerers first began organizing into clans to protect humanity from cursed spirits. The Zenin Clan quickly rose to prominence due to their exceptional combat skills and strategic prowess.</p>
+      <p>Major Historical Events:</p>
+      <ul>
+        <li>Founding Era: The Zenin Clan was founded by a powerful sorcerer whose name has been lost to history. Under his leadership, the clan established itself as a dominant force in the jujutsu world.</li>
+        <li>Golden Age: During this period, the Zenin Clan produced some of the most legendary sorcerers, including several heads of the jujutsu society.</li>
+        <li>Modern Era: The current era sees the Zenin Clan still maintaining significant influence, although internal conflicts and external threats have posed challenges.</li>
+      </ul>
+    </section>
+    <section class="main-section" id="key_members">
+      <header>
+        <h2>Key Members</h2>
+      </header>
+      <h3>Naobito Zenin</h3>
+      <code>(禪院直毘人)</code>
+      <p>Naobito Zenin is the current head of the Zenin Clan and a prominent figure in the jujutsu society. He is known for his stern demeanor and strategic mind. Naobito possesses the ability to manipulate space, making him a formidable opponent in combat. He plays a key role in several major events, including battles against powerful cursed spirits.</p>
+      
+      <h3>Maki Zenin</h3>
+      <code>(禪院真希)</code>
+      <p>Maki Zenin is a second-year student at Tokyo Jujutsu High and a skilled sorcerer despite her lack of cursed energy. She is determined, strong-willed, and fiercely independent. Maki excels in physical combat and wields cursed tools with exceptional proficiency. Her journey to prove herself and gain recognition within the Zenin Clan is a central subplot in the series.</p>
+
+      <h3>Mai Zenin</h3>
+      <code>(禪院真依)</code>
+      <p>Mai Zenin is Maki's twin sister and a second-year student at Kyoto Jujutsu High. Unlike Maki, Mai has some cursed energy, but her abilities are not as advanced. She often struggles with feelings of inadequacy and resentment towards Maki. Mai has the ability to create and manipulate bullets infused with cursed energy, making her a skilled marksman. Her complex relationship with Maki and her personal growth are explored throughout the series.</p>
+
+      <h3>Toji Fushiguro (formerly Zenin)</h3>
+      <code>(伏黒恵)</code>
+      <p>Toji Fushiguro, originally a member of the Zenin Clan, left the clan due to internal conflicts and his lack of cursed energy, which led to him being ostracized. Despite this, he became a formidable fighter known as the "Sorcerer Killer" because of his incredible physical abilities and mastery of various weapons. Toji is a ruthless and cunning individual whose actions have significant implications for the story, particularly through his son, Megumi.</p>
+
+      <h3>Megumi Fushiguro</h3>
+      <code>(禪院直毘人)</code>
+      <p>Megumi Fushiguro is the son of Toji Fushiguro and a first-year student at Tokyo Jujutsu High. He is calm, intelligent, and compassionate, with a strong sense of justice. Megumi specializes in summoning shikigami through the Ten Shadows Technique, which allows him to create and control powerful creatures. His potential and his connections to the Zenin Clan play a crucial role in the overarching plot of Jujutsu Kaisen.</p>
+    </section>
+    <section class="main-section" id="techniques">
+      <header>
+        <h2>Techniques</h2>
+      </header>
+      <p>Clan-Specific Techniques:</p>
+      <ul>
+        <li>Projection Sorcery: This technique allows users to manipulate the space around them, enabling instantaneous movement and spatial manipulation.</li>
+        <li>Ten Shadows Technique: A powerful summoning technique that allows users to create and control shikigami.</li>
+      </ul>
+      <p>Individual Abilities of Key Members:</p>
+      <ul>
+        <li>Naobito Zenin: Mastery of Projection Sorcery, allowing him to bend space to his will.</li>
+        <li>Maki Zenin: Exceptional physical strength and proficiency with cursed tools.</li>
+        <li>Mai Zenin: Ability to create bullets out of cursed energy, which she uses with precision and tactical skill.</li>
+        <li>Toji Fushiguro: Superhuman physical abilities and expertise in using various weapons, despite having no cursed energy.</li>
+        <li>Megumi Fushiguro: Proficient use of the Ten Shadows Technique to summon and control powerful shikigami.</li>
+      </ul>
+      <p>The Zenin Clan's techniques are known for their versatility and power. Projection Sorcery provides unparalleled mobility and tactical advantage, while the Ten Shadows Technique offers a diverse range of offensive and defensive capabilities. The individual abilities of clan members further enhance their combat prowess, making them formidable opponents.</p>
+    </section>
+    <section class="main-section" id="influence">
+      <header>
+        <h2>Influence</h2>
+      </header>
+      <p>The Zenin Clan's influence is felt throughout the Jujutsu Kaisen series. Their actions and decisions often have far-reaching consequences for the plot and other characters.</p>
+      <p>Relationships with Other Clans and Characters:</p>
+      <ul>
+        <li>Gojo Clan: The Zenin Clan has a complex relationship with the Gojo Clan, marked by both cooperation and rivalry.</li>
+        <li>Kamo Clan: Another prominent clan, the Kamo Clan's interactions with the Zenin Clan are pivotal in the series' power dynamics.</li>
+        <li>Individual Characters: The relationships between Zenin Clan members and other characters, such as Satoru Gojo and Yuji Itadori, are critical to the storyline.</li>
+      </ul>
+      <p>The Zenin Clan holds a significant position within the jujutsu society, influencing decisions and shaping the course of events. Their legacy and ongoing actions continue to impact the world of Jujutsu Kaisen.</p>
+    </section>
+    <section class="main-section" id="gallery">
+      <header>
+        <h2>Gallery</h2>
+      </header>
+      <p>Images and Illustrations:</p>
+      <ul>
+        <li>
+          <figure>
+            <img src="https://i.pinimg.com/736x/65/2d/81/652d8168bb069fb1d324e0d96957c171.jpg" alt="Naobito Zenin">
+            <figcaption>Naobito Zenin</figcaption>
+          </figure>
+        </li>
+        <li>
+          <figure>
+            <img src="https://i.pinimg.com/736x/35/83/29/3583294f949ae95a45b42675595d01ff.jpg" alt="Maki Zenin">
+            <figcaption>Maki Zenin</figcaption>
+          </figure>
+        </li>
+        <li>
+          <figure>
+            <img src="https://i.pinimg.com/564x/87/d1/64/87d164297b0d00246f3797ca43e823fc.jpg" alt="Mai Zenin">
+            <figcaption>Mai Zenin</figcaption>
+          </figure>
+        </li>
+        <li>
+          <figure>
+            <img src="https://i.pinimg.com/736x/ff/b5/31/ffb531206115bd1577835ef985e0555c.jpg" alt="Toji Fushiguro">
+            <figcaption>Toji Fushiguro</figcaption>
+          </figure>
+        </li>
+        <li>
+          <figure>
+            <img src="https://i.pinimg.com/736x/a5/05/69/a505693c57af8459b5655bbd47b431d2.jpg" alt="Megumi Fushiguro">
+            <figcaption>Megumi Fushiguro</figcaption>
+          </figure>
+        </li>
+        <li>
+          <figure>
+            <img src="https://i.pinimg.com/564x/c3/31/9b/c3319b37a9228c1cc77ddbb883334329.jpg" alt="Zenin Clan Manga">
+            <figcaption>Zenin Clan Manga</figcaption>
+          </figure>
+        </li>
+        <li>
+          <figure>
+            <img src="https://i.pinimg.com/564x/08/98/1f/08981fea1c18145c7b03c13c5ffb922f.jpg" alt="Zenin Clan Manga Fanart">
+            <figcaption>Zenin Clan Manga Fanart</figcaption>
+          </figure>
+        </li>
+        <li>
+          <figure>
+            <img src="https://i.pinimg.com/564x/7b/27/40/7b27405c57078874e067da069f157b44.jpg" alt="Zenin Clan with the iconic outfit">
+            <figcaption>Iconic Zenin members with the iconic outfit</figcaption>
+          </figure>
+        </li>
+      </ul>
+    </section>
+  </main>
+</body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+/* General styles */
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1f1f1f;
+    color: #fff;
+    line-height: 1.6;
+}
+
+/* Header styles */
+.header-class {
+    background-color: #2c2c2c;
+    color: #fff;
+    padding: 2em;
+    width: 200px;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    overflow-y: auto;
+}
+
+.header-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.header-class h1 {
+    font-size: 1.6em;
+    margin-bottom: 1em;
+}
+
+.header-class ul {
+    list-style: none;
+    font-size: 27.3;
+}
+
+.header-class ul li {
+    margin-bottom: 1em;
+}
+
+.header-class ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 0.5em 0;
+    display: block;
+    transition: background-color 0.3s ease;
+}
+
+.header-class ul li a:hover {
+    background-color: #FF5733;
+}
+
+/* Main content */
+main {
+    margin-left: 250px;
+    padding: 2em;
+}
+
+main h2 {
+    color: #FF5733;
+    border-bottom: 2px solid #FF5733;
+    padding-bottom: 0.5em;
+    margin-bottom: 1em;
+}
+
+main h3 {
+    color: #FFC300;
+    margin-top: 1.5em;
+}
+
+main p {
+    margin-bottom: 1em;
+}
+
+main ul {
+    list-style: none;
+    padding: 0;
+    margin-bottom: 1em;
+}
+
+main ul li {
+    position: relative;
+    padding-left: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+main ul li::before {
+    content: '•';
+    position: absolute;
+    left: 0;
+    color: #FF5733;
+    font-weight: bold;
+}
+
+code {
+    color: #c79729;
+    
+}
+
+/* Gallery */
+#gallery {
+    padding: 2em;
+}
+
+#gallery h2 {
+    color: #FF5733;
+    border-bottom: 2px solid #FF5733;
+    padding-bottom: 0.5em;
+    margin-bottom: 1em;
+}
+
+#gallery ul {
+    list-style: none;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-gap: 20px;
+}
+
+#gallery li {
+    margin-bottom: 2em;
+}
+
+#gallery figure {
+    position: relative;
+    overflow: hidden;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#gallery img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+#gallery figcaption {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #fff;
+    text-align: center;
+    font-size: 0.9em;
+    transition: opacity 0.3s ease;
+    opacity: 0;
+}
+
+#gallery figure:hover figcaption {
+    opacity: 1;
+}
+
+/* Media query for smaller screens */
+@media screen and (max-width: 768px) {
+    .header-class {
+        width: 100%;
+        height: auto;
+        position: relative;
+    }
+
+    main {
+        margin-left: 0;
+        padding: 1em;
+        
+    }
+
+    #gallery ul {
+        grid-template-columns: 1fr;
+        
+    }
+}
+
+
+
+** end of undefined **
+
