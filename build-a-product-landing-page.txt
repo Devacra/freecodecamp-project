@@ -1,0 +1,224 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cursed Tools - Jujutsu Kaisen</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header id="header">
+        <nav id="nav-bar">
+            <img src="https://realescapegame.jp/jujutsu-kaisen-EN/common/img/logo_jujutsukaisen.png" id="header-img">
+            <ul>
+                <li><a class="nav-link" href="#home">Home</a></li>
+                <li><a class="nav-link" href="#weapons">Tools</a></li>
+                <li><a class="nav-link" href="#about">About</a></li>
+                <li><a class="nav-link" href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="home">
+        <div class="home-container">
+            <h1>Welcome to Cursed Tools Shop</h1>
+            <p>Find the perfect cursed tools to enhance your jujutsu techniques.</p>
+            <a href="#weapons" class="btn">Shop Now</a>
+        </div>
+    </section>
+
+    <section id="weapons">
+        <h2>Our Tools</h2>
+        <div class="weapons-container">
+            <div class="weapon-card">
+                <img src="https://i.pinimg.com/564x/f0/43/90/f0439079c9d00dda889b6ccdddb25d25.jpg" alt="Playful Cloud">
+                <h3>Playful Cloud</h3>
+                <p>It is the only special grade cursed tool that is not imbued with a cursed technique. Instead, Playful Cloud's strength relies on the raw power of its user..</p>
+                <a href="#" class="btn">Buy Now</a>
+            </div>
+            <div class="weapon-card">
+                <img src="https://i.pinimg.com/564x/0c/7e/41/0c7e415b6111007b5f7f64c7963bb533.jpg" alt="Inverted Spear of Heaven">
+                <h3>Inverted Spear of Heaven</h3>
+                <p>The weapon has been imbued with a cursed technique powered by a special, foreign type of cursed energy, which grants it the following effect: the "forced cancellation" of active cursed techniques.</p>
+                <a href="#" class="btn">Buy Now</a>
+            </div>
+            <div class="weapon-card">
+                <img src="https://i.pinimg.com/564x/23/9e/01/239e01293f861798b75c0b2c0944ee10.jpg" alt="Dragon Bone">
+                <h3>Dragon Bone</h3>
+                <p>This cursed tool has the ability to build up kinetic force as well as cursed energy. Dragon-Bone can eject both forces back out of the three engines to propel the blade at the user's will, granting it far greater cutting power than normal..</p>
+                <a href="#" class="btn">Buy Now</a>
+            </div>
+            
+        </div>
+    </section>
+
+<section id="videoo">
+        <h2>Watch This Cursed Tools Guide</h2>
+        <iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/SqLiwqGyKxk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </section>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>Learn more about our shop and the cursed weapons we offer.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <form id="form" action="https://www.freecodecamp.com/email-submit">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" placeholder="Type name" required>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" placeholder="Type email" required >
+
+            <label for="message">Message:</label>
+            <textarea id="message" name="message" placeholder="Type message" required></textarea>
+
+            <input type="submit" class="btn" id="submit">Send</button>
+        </form>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Cursed Weapons Shop. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #1c1c1e;
+    color: #d1d1d1;
+}
+
+header {
+    background-color: #121212;
+    color: #fff;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+}
+
+#header-img {
+    height: 40px;
+    width: 15%;
+    margin-bottom: -69;
+    margin-top: 9;
+}
+
+
+#nav-bar ul {
+    list-style: none;
+    padding: 0 20px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+#nav-bar li {
+    margin: 0 15px;
+}
+
+#nav-bar a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+#home {
+    text-align: center;
+    padding: 50px 20px;
+    background-image: url('background.jpg');
+    background-size: cover;
+    color: #fff;
+}
+
+.home-container h1 {
+    font-size: 48px;
+}
+
+.home-container p {
+    font-size: 24px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #e60012;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+#weapons {
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.weapons-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.weapon-card {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    width: 300px;
+    text-align: center;
+    color: black;
+}
+
+.weapon-card img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+#videoo {
+    text-align: center;
+}
+
+#about, #contact {
+    padding: 50px 20px;
+    text-align: center;
+}
+
+footer {
+    background-color: #121212;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+@media screen and (max-width: 768px) {
+    .header-class {
+        width: 100%;
+        height: auto;
+        position: relative;
+    }
+
+    main {
+        margin-left: 0;
+        padding: 1em;
+        
+    }
+
+    #gallery ul {
+        grid-template-columns: 1fr;
+        
+    }
+}
+
+** end of undefined **
+
