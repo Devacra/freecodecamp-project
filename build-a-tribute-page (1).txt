@@ -1,0 +1,134 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="freeCodeCamp Tribute Page for Toji Fushiguro" />
+    <title>Toji Fushiguro</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="container">
+    <h1 id="title">Toji Fushiguro</h1>
+    <p>The one who left it all behind</p>
+    </div>
+    <main id="main">
+      <div class="figure-container" id="img-div">
+        <figure>
+        <img id="image" src="https://i.pinimg.com/736x/27/68/b4/2768b439e2351496ad1940a602e6b9f7.jpg" alt="Toji Fushiguro"/>
+        <figcaption id="img-caption">Toji Fushiguro, also known as "Sorcerer Killer" and "The One Who Left It All Behind," is a former member of the Zen'in Clan and formidable character in the Jujutsu Kaisen universe. Renowned for his unmatched physical prowess and a sharp mind, he defies the norms of the jujutsu world with his lack of cursed energy. Instead, Toji compensates for this with exceptional physical prowess and the use of cursed tools. Toji’s deadly precision and ruthless determination make him a force to be reckoned with, as he navigates a path of relentless combat and complex motives.
+        </figcaption>
+        </figure>
+        </div>
+             
+        <div class="info-container" id="tribute-info">
+          <h2>Early Life and Background:</h2>
+          <p>Toji Fushiguro, originally Toji Zenin, was born into the prestigious Zenin clan, one of the three great sorcerer families in the "Jujutsu Kaisen" universe. Despite his lineage, Toji was born without the ability to manipulate cursed energy, a significant disadvantage in a family that valued sorcery above all. This led to his ostracization and resentment from the clan members.
+          <h2>Departure from the Zenin Clan:</h2>
+          <p>Toji eventually left the Zenin clan, adopting the surname Fushiguro. Free from the clan's constraints, he forged his own path, becoming a skilled mercenary known as the "Sorcerer Killer." Toji compensated for his lack of cursed energy with exceptional physical abilities and mastery over cursed tools, making him a formidable opponent.</p>
+          <h2>Life as a Mercenary:</h2>
+          <p>As a mercenary, Toji took on various dangerous missions, often clashing with powerful sorcerers. His ruthlessness and efficiency earned him a fearsome reputation. One of his most notable missions was his confrontation with Satoru Gojo, one of the strongest jujutsu sorcerers, which showcased his strategic prowess and combat skills.</p>
+          <h2>Personal Life and Relationship with Megumi:</h2>
+          <p>Toji's personal life is marked by his complex relationship with his son, Megumi Fushiguro. After leaving the Zenin clan, Toji married and had Megumi. Despite his harsh demeanor, Toji cared for Megumi in his own way, ensuring that his son would be taken care of by the Zenin clan due to Megumi's potential as a powerful sorcerer. This decision was driven by Toji's desire to secure a better future for his son, even if it meant re-engaging with the clan he despised.</p>
+          <h2>Legacy and Influence:</h2>
+          <p>Toji's legacy lives on through Megumi, who becomes a central character in "Jujutsu Kaisen." Toji's influence on Megumi is evident in his son's fighting style and use of cursed techniques. Despite his absence, Toji's presence looms large, impacting the series' narrative and character dynamics.</p>
+          <h2>Character Arc and Impact:</h2>
+          <p>Toji Fushiguro's character arc is one of tragedy and complexity. His journey from a scorned clan member to a feared mercenary, and his enduring influence on his son, adds depth to his character. Toji's life story highlights themes of family, power, and the struggle for acceptance, making him a compelling and memorable figure in the "Jujutsu Kaisen" series.</p>
+          </div>
+          <h3>If you have a moment, I recommend exploring more about Toji Fushiguro on the <a id="tribute-link" href="https://jujutsu-kaisen.fandom.com/wiki/Toji_Fushiguro" target="_blank"> Jujutsu Kaisen Wiki</a> to delve deeper into this remarkable character's background and story.
+          </h3>
+                    </main>
+    </body>
+    </html>
+
+
+** end of undefined **
+
+** start of undefined **
+
+.container {
+  width: 98%;
+  height: 150px;
+  background-color: #ededed;
+  padding: 15px;
+  margin-top: 35;
+  border-radius: 5px;
+}
+
+h1 {
+  text-align: center;
+  color: black;
+  font-size: 45;
+}
+
+p {
+  text-align: center;
+
+}
+
+body {
+  font-family: tahoma;
+}
+
+.figure-container {
+  text-align: center;
+  max-width: 600px;
+  float: left;
+  margin-top: -15
+}
+    
+.figure-container img {
+  width: 100%;
+  height: auto;
+  border: 1px solid #ccc;
+  
+}
+    
+.figure-container figcaption {
+  margin-top: 8px;
+  font-style: italic;
+  color: #555;
+  text-align: justify;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+.info-container {
+  margin-left: 580px;
+  margin-top: 35px;
+  border: 1px solid #ccc;
+}
+
+h2 {
+  font-size: 27px;
+  color: #1d1d1d;
+}
+
+.info-container p {
+  font-size: 17;
+  text-align: justify;
+  color: #1c1c1c;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin: none;
+}
+
+h3 {
+  text-align: center;
+  font-size: 20;
+  padding-top: 50px;
+  padding-left: 30px;
+  padding-right: 30px;
+  color: #3a3a3a;
+  font: tahoma;
+}
+
+** end of undefined **
+
